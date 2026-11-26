@@ -5,19 +5,19 @@
 | Team | KP | Opp | Win % | Src | Season cost vs best | Future value | Best Jan+ game | Flag |
 |---|---|---|---|---|---|---|---|---|
 | New Mexico Lobos | 79 | Miss Valley St Delta Devils | 99.9% | spread | +0.00% | 1.80 | 96.0% |  |
-| Wisconsin Badgers | 76 | Northeastern Huskies | 97.2% | spread |  | 0.00 | 72.1% |  |
-| Richmond Spiders | 122 | Bethune-Cookman Wildcats | 84.5% | ML |  | 0.00 | 67.2% |  |
-| Pepperdine Waves | 151 | CSU Bakersfield Roadrunners | 79.7% | ML |  | 0.00 | 76.5% |  |
-| Loyola Marymount Lions | 154 | Eastern Washington Eagles | 74.2% | ML |  | 0.00 | 75.7% |  |
-| Northern Kentucky Norse | 258 | Bellarmine Knights | 71.8% | ML |  | 0.00 | 82.3% |  |
-| UNC Wilmington Seahawks | 113 | St. Thomas (MN) Tommies | 66.4% | ML |  | 0.00 | 91.2% |  |
-| UC Davis Aggies | 202 | Omaha Mavericks | 62.6% | ML |  | 0.00 | 76.1% |  |
-| Pacific Tigers | 129 | Jacksonville St Gamecocks | 61.8% | ML |  | 0.00 | 79.9% |  |
-| Mississippi St Bulldogs | 65 | Wake Forest Demon Deacons | 61.2% | ML |  | 0.00 | 75.1% |  |
-| Clemson Tigers | 83 | Colorado St Rams | 60.1% | ML |  | 0.00 | 81.2% |  |
-| Northern Illinois Huskies | 182 | SIU-Edwardsville Cougars | 58.7% | ML |  | 0.00 | 89.9% |  |
-| The Citadel Bulldogs | 313 | South Carolina Upstate Spartans | 57.2% | ML |  | 0.00 | 59.9% |  |
-| CSU Northridge Matadors | 204 | Weber State Wildcats | 54.6% | ML |  | 0.00 | 83.5% |  |
-| Charleston Cougars | 143 | Kennesaw St Owls | 53.2% | ML |  | 0.00 | 86.7% |  |
+| Loyola Marymount Lions | 154 | Eastern Washington Eagles | 72.3% | ML |  | 0.00 | 75.7% |  |
+| Mississippi St Bulldogs | 65 | Wake Forest Demon Deacons | 62.0% | ML |  | 0.00 | 75.1% |  |
+| Pacific Tigers | 129 | Jacksonville St Gamecocks | 61.7% | ML |  | 0.00 | 79.9% |  |
+| Clemson Tigers | 83 | Colorado St Rams | 61.1% | ML |  | 0.00 | 81.2% |  |
+| Stanford Cardinal | 89 | Saint Louis Billikens | 38.9% | ML |  | 0.00 | 64.7% |  |
+| Colorado St Rams | 103 | Clemson Tigers | 38.9% | ML |  | 0.00 | 82.7% |  |
+| Jacksonville St Gamecocks | 180 | Pacific Tigers | 38.3% | ML |  | 0.00 | 70.1% |  |
+| Colorado Buffaloes | 96 | Grand Canyon Antelopes | 20.1% | ML |  | 0.00 | 75.7% |  |
+| Incarnate Word Cardinals | 336 | Hawai'i Rainbow Warriors | 8.0% | ML |  | 0.00 | 51.6% |  |
+| Miss Valley St Delta Devils | 365 | New Mexico Lobos | 0.0% | spread |  | 0.00 | 61.4% |  |
+| Hawai'i Rainbow Warriors | 167 | Incarnate Word Cardinals | 92.0% | ML |  | 0.92 | 81.4% |  |
+| Saint Louis Billikens | 61 | Stanford Cardinal | 61.1% | ML |  | 5.59 | 95.4% |  |
+| Eastern Washington Eagles | 159 | Loyola Marymount Lions | 27.7% | ML |  | 7.66 | 85.3% |  |
+| VCU Rams | 63 | Washington Huskies | 62.7% | ML |  | 11.19 | 95.3% |  |
 
 _HOLD = projected 1-4 seeds (top 16), held for the NCAA tournament. Season cost vs best = how much worse your whole-season survival odds get (in log-probability, roughly percentage points of total risk) if you use this team today instead of the plan's pick. The plan assigns one team per remaining day, each team once, using KenPom for future games; future games capped at 99.5%. Today, every team at 99%+ counts as equally safe, so among them the board burns the one with the least future value. Future value = strike risk (pts) the team would save on thin nights where it's one of the best options left; Best Jan+ game = its safest game in conference season._
